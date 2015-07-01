@@ -1,0 +1,2 @@
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\TetrisAssault\WindowsGame1\Content\obj\x86\Release\ResolveAssemblyReference.cache

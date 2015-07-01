@@ -1,0 +1,17 @@
+Content\redBlock.xnb
+Content\blueBlock.xnb
+Content\backgroundTemplate.xnb
+Content\greenBlock.xnb
+Content\greyBlock.xnb
+Content\purpBlock.xnb
+Content\tealBlock.xnb
+Content\target.xnb
+Content\failScreen.xnb
+Content\startScreen.xnb
+Content\SpriteFont1.xnb
+Content\gameoverScore.xnb
+Content\instructions.xnb
+Content\match.xnb
+Content\switch.xnb
+Content\daydreaming.xnb
+Content\daydreaming.wma

@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>redBlock.jpg</Source>
+      <Name>redBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Javier\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\redBlock.xnb</Output>
+      <Time>2010-03-22T13:55:19.4714003-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blueBlock.jpg</Source>
+      <Name>blueBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Javier\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\blueBlock.xnb</Output>
+      <Time>2010-03-23T09:22:21.8384506-04:00</Time>
+    </Item>
+    <Item>
+      <Source>backgroundTemplate.jpg</Source>
+      <Name>backgroundTemplate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Javier\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\backgroundTemplate.xnb</Output>
+      <Time>2010-03-24T16:48:10.9072071-04:00</Time>
+    </Item>
+    <Item>
+      <Source>greenBlock.jpg</Source>
+      <Name>greenBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Javier\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\greenBlock.xnb</Output>
+      <Time>2010-03-23T11:59:40.8533313-04:00</Time>
+    </Item>
+    <Item>
+      <Source>greyBlock.jpg</Source>
+      <Name>greyBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Javier\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\greyBlock.xnb</Output>
+      <Time>2010-03-23T11:59:40.8543314-04:00</Time>
+    </Item>
+    <Item>
+      <Source>purpBlock.jpg</Source>
+      <Name>purpBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Javier\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\purpBlock.xnb</Output>
+      <Time>2010-03-23T11:59:40.8563315-04:00</Time>
+    </Item>
+    <Item>
+      <Source>tealBlock.jpg</Source>
+      <Name>tealBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Javier\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\tealBlock.xnb</Output>
+      <Time>2010-03-23T11:59:40.8583316-04:00</Time>
+    </Item>
+    <Item>
+      <Source>target.png</Source>
+      <Name>target</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Javier\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\target.xnb</Output>
+      <Time>2010-03-23T12:03:56.0269264-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Javier\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2010-03-24T16:18:24.9720575-04:00</Time>
+    </Item>
+    <Item>
+      <Source>match.wav</Source>
+      <Name>match</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Javier\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\match.xnb</Output>
+      <Time>2010-03-25T10:21:34.8512659-04:00</Time>
+    </Item>
+    <Item>
+      <Source>switch.wav</Source>
+      <Name>switch</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Javier\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\switch.xnb</Output>
+      <Time>2010-03-25T10:21:34.8532661-04:00</Time>
+    </Item>
+    <Item>
+      <Source>daydreaming.mp3</Source>
+      <Name>daydreaming</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Javier\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\daydreaming.xnb</Output>
+      <Extra>C:\Users\Javier\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\daydreaming.wma</Extra>
+      <Time>2010-03-25T11:06:59.9321316-04:00</Time>
+    </Item>
+    <Item>
+      <Source>failScreen.jpg</Source>
+      <Name>failScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Javier\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\failScreen.xnb</Output>
+      <Time>2010-03-25T13:07:49.1557635-04:00</Time>
+    </Item>
+    <Item>
+      <Source>startScreen.jpg</Source>
+      <Name>startScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Javier\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\startScreen.xnb</Output>
+      <Time>2010-03-25T13:07:49.1577636-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gameoverScore.spritefont</Source>
+      <Name>gameoverScore</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Javier\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gameoverScore.xnb</Output>
+      <Time>2010-03-25T13:54:16.1091681-04:00</Time>
+    </Item>
+    <Item>
+      <Source>instructions.spritefont</Source>
+      <Name>instructions</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Javier\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\instructions.xnb</Output>
+      <Time>2010-03-25T14:17:58.0514986-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Javier\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Javier\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Javier\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Javier\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-14T11:13:52-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-03-22T09:57:19.5346346-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
